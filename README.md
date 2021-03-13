@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developer Opputunity
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Project that are positive, challenging and a source to hone and utilize my skills.
-- 📫 How to reach me Twitter via @abfat0411
+- 📫 How to reach me Twitter via @abfat0411 or Mail: abfatahi.iaf@gmail.com
 
 <!---
 abdulfatahi-ishaq/abdulfatahi-ishaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
